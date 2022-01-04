@@ -5,5 +5,6 @@ package com.application.Controller;
  * this class concern the authentication dd
  */
 public class Authentication {
+    int a=0;
 
 }
